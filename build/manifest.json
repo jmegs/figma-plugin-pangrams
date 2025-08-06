@@ -1,4 +1,7 @@
 { "api": "1.0.0",
   "name": "Pangrams",
-  "main": "plugin.js"
+  "main": "plugin.js",
+  "editorType": [
+  "figma"
+]
 }
